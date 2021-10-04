@@ -1,0 +1,72 @@
+[
+    {
+      "id": 1,
+      "name": "Angular Web framework",
+      "price": 5000,
+      "documantaion": "Throughout this Laravel Vue js CRUD example tutorial, you will see and understand how to build Create, Read, Update, and Delete API and how to consume APIs to perform CRUD operations in Laravel Vue JS application",
+
+      "img": " https://i.ibb.co/JRvSnt6/download-1.png "
+    },
+    {  
+      "id": 2,
+      "name": " React JavaScript library",
+      "price": 4020,
+      "documantaion": "JavaScript, often abbreviated as JS, is a programming language that conforms to the ECMAScript specification. JavaScript is high-level, often just-in-time compiled, and multi-paradigm. It has curly-bracket syntax, dynamic typing, prototype-b",
+      "img": " https://i.ibb.co/rtcXZcj/download.png "
+    },
+    {
+      "id": 3,
+      "name": " JavaScript Programming language",
+      "price": 1630,
+      "documantaion":"n 2005, Mozilla joined ECMA International, and work started on the ECMAScript for XML (E4X) standard. This led to Mozilla working jointly with Macromedia (later acquired by Adobe Systems), who were implementing E4X in their ActionScript 3 language, which was based on an ECMAScript 4 draft. The goal became standardizing ActionScript 3 as the new ECMAScript 4. To this end, Adobe Systems released the Tamarin implementation as an open source project. However, Tamarin and ActionScript 3 were too different from established ",
+      "img": " https://i.ibb.co/jG1dg9g/download.jpg "
+    },
+    {
+      "id": 4,
+      "name": " PHP Programming language",
+      "price": 5860,
+      "documantaion": "PHP is the most popular scripting language for web development. It is free, open source and server-side (the code is executed on the server). MySQL is a Relational Database Management System (RDBMS) that uses Structured Query Language (SQL).",
+
+      "img": " https://i.ibb.co/tYJ3DTG/php-mini-logo.jpg"
+    },
+    {
+      "id": 5,
+      "name": " Learn C Programming ",
+      "writer": "  ",
+      "documantaion":"C is a general-purpose, procedural computer programming language supporting structured programming, lexical variable scope, and recursion, with a static type system. By design, C provides constructs that map efficiently to typical machine instructions",
+      "price": 2400,
+      "img": " https://i.ibb.co/6sn8L8Z/images-2.jpg "
+    },
+    {
+      "id": 6,
+      "name": " Learn Html ",
+      "documantaion":"The HyperText Markup Language, or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets and scripting languages such as JavaScr",
+      "price": 2600,
+      "img": " https://i.ibb.co/kGJgGct/images-1.jpg  "
+    },
+    {
+      "id": 7,
+      "name": " Learn CSS ",
+      "documantaion":"Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.",
+      "price": 2080,
+
+      "img": "https://i.ibb.co/pzBfQ9p/images.jpg "
+    },
+    {
+      "id": 8,
+      "name": " Learn All section Language ",
+      "documantaion":"Digital marketing is the component of marketing that utilizes internet and online based digital technologies such as desktop computers, mobile phones and other digital media and platforms to promote products and services.",
+
+      "price": 9010,
+
+      "img": " https://i.ibb.co/85Tfh2h/images-1.png"
+    },
+    {
+      "id": 9,
+      "name": " Learn  XCEL ",
+      "price": 9840,
+      "documantaion": "Microsoft Excel is a spreadsheet developed by Microsoft for Windows, macOS, Android and iOS. It features calculation, graphing tools, pivot tables, and a macro programming language called Visual Basic for Applications",
+
+      "img": "  https://i.ibb.co/1Mk72dC/download-1.jpg  "
+    }
+  ]

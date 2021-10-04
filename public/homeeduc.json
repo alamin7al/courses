@@ -1,0 +1,35 @@
+[
+{
+    "id": 6,
+    "name": " Php & mySql Programming ",
+
+    "price": 2600,
+    "documantaion": "PHP is the most popular scripting language for web development. It is free, open source and server-side (the code is executed on the server). MySQL is a Relational Database Management System (RDBMS) that uses Structured Query Language (SQL).",
+
+    "img": " https://i.ibb.co/rMh29vM/PHP-Code-Insert-Data-Into-My-SQL-Database-From-Form.jpg "
+  },
+  {
+    "id": 7,
+    "name": " Microsoft Excel for Beginner ",
+
+    "price": 2080,
+    "documantaion": "Microsoft Excel is a spreadsheet developed by Microsoft for Windows, macOS, Android and iOS. It features calculation, graphing tools, pivot tables, and a macro programming language called Visual Basic for Applications",
+
+    "img": " https://i.ibb.co/nC49vpf/download.png"
+  },
+  {
+    "id": 8,
+    "name": " Digital Marketing Course",
+    "documantaion":"Digital marketing is the component of marketing that utilizes internet and online based digital technologies such as desktop computers, mobile phones and other digital media and platforms to promote products and services.",
+    "price": 9010,
+
+    "img": "https://i.ibb.co/1zgwQvx/download.jpg "
+  },
+  {
+    "id": 9,
+    "name": " Laravel API Development",
+    "documantaion": "Throughout this Laravel Vue js CRUD example tutorial, you will see and understand how to build Create, Read, Update, and Delete API and how to consume APIs to perform CRUD operations in Laravel Vue JS application",
+    "price": 9840,
+    "img": "https://i.ibb.co/3ddtJb8/images.png"
+  }
+]
